@@ -1,0 +1,40 @@
+
+/* google fonts */
+body
+{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+/* person images */
+.man
+{
+    width: 100px;
+    height: 100px;
+}
+footer
+{
+    height: 280px;
+}
+footer a
+{
+    text-decoration: none;
+    color: white;
+    font-weight: 300;
+}
+/* card highlight */
+.highlight
+{
+    height: 400px;
+    
+}
+/* toast sizing */
+.toast-img
+{
+    width: 100px;
+    height: 100px;
+}
+/* badge spacing */
+.hot
+{
+    margin-left: -30px;
+}
